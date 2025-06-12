@@ -3496,6 +3496,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: personajecalvo
       objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 14a923dcf6220d147ba07dad3588b570, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: a1cc0bb62fb955d4bb83a895e2279f80, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3524,7 +3528,7 @@ CapsuleCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -5952,8 +5956,8 @@ Animator:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1888151286}
   m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: dfb7ea9877d74444b9c8bf9228348d41, type: 3}
-  m_Controller: {fileID: 9100000, guid: 61cb027fb1a95714b83288caae858ddb, type: 2}
+  m_Avatar: {fileID: 9000000, guid: f52ae31cc7e2c3241af87462144a6a7c, type: 3}
+  m_Controller: {fileID: 9100000, guid: 05f6e02a01161e946bb0c710ce984533, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -5979,7 +5983,7 @@ CapsuleCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
