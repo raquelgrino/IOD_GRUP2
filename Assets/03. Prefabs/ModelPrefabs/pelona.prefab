@@ -64,6 +64,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pelona
       objectReference: {fileID: 0}
+    - target: {fileID: 5866666021909216657, guid: 760f38892f5a32c42b1217a3aeefbb7d, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 6a38939054b70d54caee2101a4453fe9, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
