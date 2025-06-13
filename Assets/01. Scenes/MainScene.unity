@@ -4093,6 +4093,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: particula aceite
       objectReference: {fileID: 0}
+    - target: {fileID: 5509896595049347039, guid: c2316f92b71787c4b86d7e162cc139ca, type: 3}
+      propertyPath: m_TagString
+      value: Fall
+      objectReference: {fileID: 0}
     - target: {fileID: 8290010817557976308, guid: c2316f92b71787c4b86d7e162cc139ca, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.57930976
