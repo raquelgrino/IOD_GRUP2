@@ -361,10 +361,9 @@ MonoBehaviour:
   - {fileID: 363690709}
   - {fileID: 2070380558}
   _characterPrefabs:
-  - {fileID: 6960837404641209372, guid: 83ede69f954069b49addb63b96452814, type: 3}
+  - {fileID: 1426662415454984566, guid: ae0647c798d0b5943ab7f2ec2c128fb1, type: 3}
   - {fileID: 690074775}
   - {fileID: 0}
-  - {fileID: 5207098023798098211, guid: 6f56ec6139982414c9e875a18505ca41, type: 3}
 --- !u!4 &12176699
 Transform:
   m_ObjectHideFlags: 0
@@ -11838,6 +11837,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: calvo
       objectReference: {fileID: 0}
+    - target: {fileID: 1426662415454984566, guid: ae0647c798d0b5943ab7f2ec2c128fb1, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
     - target: {fileID: 1767475133291168716, guid: ae0647c798d0b5943ab7f2ec2c128fb1, type: 3}
       propertyPath: m_LocalPosition.x
       value: -10.082196
@@ -15900,6 +15903,10 @@ PrefabInstance:
     - target: {fileID: 4694617684199230979, guid: a6105dec86b684b41829ca612fda5520, type: 3}
       propertyPath: m_Name
       value: pelona
+      objectReference: {fileID: 0}
+    - target: {fileID: 4694617684199230979, guid: a6105dec86b684b41829ca612fda5520, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 5363067274653996217, guid: a6105dec86b684b41829ca612fda5520, type: 3}
       propertyPath: m_LocalPosition.x
