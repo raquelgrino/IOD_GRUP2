@@ -367,8 +367,8 @@ MonoBehaviour:
   _characterPrefabs:
   - {fileID: 725925764}
   - {fileID: 725925764}
-  - {fileID: 0}
-  - {fileID: 7522374151972054841}
+  - {fileID: 725925764}
+  - {fileID: 725925764}
   _fillingContainers:
   - {fileID: 6257008541149856170}
   - {fileID: 6899361692848674178}
@@ -10587,7 +10587,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f269ac5af776d0e49a52990cc644711a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _gameDuration: 15
+  _gameDuration: 60
   _preparationDuration: 3
 --- !u!4 &2147354852 stripped
 Transform:
@@ -14344,11 +14344,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 108dc9a7e0a026248a2cf8cf833667ce, type: 3}
---- !u!1 &7522374151972054841 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6483126022288363250, guid: 108dc9a7e0a026248a2cf8cf833667ce, type: 3}
-  m_PrefabInstance: {fileID: 7522374151972054840}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &7522374151972054843 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7352033072822712063, guid: 108dc9a7e0a026248a2cf8cf833667ce, type: 3}
